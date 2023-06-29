@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/propaccelproj/static/css/main.a1acf6a5.css",
+    "main.js": "/propaccelproj/static/js/main.2a81c5aa.js",
+    "index.html": "/propaccelproj/index.html",
+    "main.a1acf6a5.css.map": "/propaccelproj/static/css/main.a1acf6a5.css.map",
+    "main.2a81c5aa.js.map": "/propaccelproj/static/js/main.2a81c5aa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a1acf6a5.css",
+    "static/js/main.2a81c5aa.js"
+  ]
+}
